@@ -1,7 +1,7 @@
 {
   "name": "new-workspace",
   "version": "0.0.0",
-  "main": "dist/angular-test-lib/dist/index.d.ts",
+  "main": "./dist/angular-test-lib/index.d.ts",
   "scripts": {
     "ng": "ng",
     "prepare": "npm run build",
